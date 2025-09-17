@@ -1,0 +1,1 @@
+confirm('外链式引入JS-hello')
